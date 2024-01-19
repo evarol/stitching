@@ -1,5 +1,5 @@
 # stitching
-![Demo](https://github.com/evarol/manual_stitching/blob/master/demo.png)
+![Demo](https://github.com/evarol/stitching/blob/master/demo.png)
  stitching using the dredge algorithm
 
 Instructions: Specify folders of tif stacks in main.m and run.
